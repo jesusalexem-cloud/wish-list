@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4f6cabcfc3b3621015e11c84e40131e0" label="Wish List" max_length="40" name="x_675748_wish_list_wish_list" type="collection">
+        <element label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element label="Url" max_length="1024" name="url" type="url"/>
+        <element label="Quantity" max_length="255" name="quantity" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element display="true" label="Item" mandatory="true" max_length="40" name="item" type="string"/>
+        <index name="index">
+            <element name="requester"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

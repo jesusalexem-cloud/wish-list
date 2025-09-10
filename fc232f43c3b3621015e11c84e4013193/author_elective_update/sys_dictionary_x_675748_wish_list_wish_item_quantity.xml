@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="quantity" table="x_675748_wish_list_wish_item">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Quantity</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>quantity</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Integer">integer</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>x_675748_wish_list_wish_item</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-10 07:36:19</sys_created_on>
+        <sys_id>7e8b678fc3b3621015e11c84e4013175</sys_id>
+        <sys_name>Quantity</sys_name>
+        <sys_package display_value="Wish List" source="x_675748_wish_list">fc232f43c3b3621015e11c84e4013193</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">fc232f43c3b3621015e11c84e4013193</sys_scope>
+        <sys_update_name>sys_dictionary_x_675748_wish_list_wish_item_quantity</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-10 07:36:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">fc232f43c3b3621015e11c84e4013193</application>
+        <file_path/>
+        <instance_id>13f4fed51bce71d8fe1b43f4bd4bcbcb</instance_id>
+        <instance_name>dev193112</instance_name>
+        <name>sys_dictionary_x_675748_wish_list_wish_item_quantity</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="quantity" table="x_675748_wish_list_wish_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Quantity</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>quantity</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Integer">integer</internal_type><mandatory>false</mandatory><max_length>255</max_length><name>x_675748_wish_list_wish_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-10 07:36:19</sys_created_on><sys_id>7e8b678fc3b3621015e11c84e4013175</sys_id><sys_name>Quantity</sys_name><sys_package display_value="Wish List" source="x_675748_wish_list">fc232f43c3b3621015e11c84e4013193</sys_package><sys_policy/><sys_scope display_value="Wish List">fc232f43c3b3621015e11c84e4013193</sys_scope><sys_update_name>sys_dictionary_x_675748_wish_list_wish_item_quantity</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-10 07:36:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-2087107913</payload_hash>
+        <record_name>Wish Item.Quantity</record_name>
+        <reverted_from/>
+        <source>53cae34fc3b3621015e11c84e40131c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-10 07:36:20</sys_created_on>
+        <sys_id>c38b678fc3b3621015e11c84e4013189</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199328dd6330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-10 07:36:20</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>8b8b678fc3b36210866a5fabbba5cf88</update_guid>
+        <update_guid_history>8b8b678fc3b36210866a5fabbba5cf88:-2087107913</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-10 07:38:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>76ce0cbf18784e8ca993406601aa3dd1</sys_id>
+        <sys_metadata>7e8b678fc3b3621015e11c84e4013175</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quantity</sys_name>
+        <sys_package display_value="Wish List" source="x_675748_wish_list">fc232f43c3b3621015e11c84e4013193</sys_package>
+        <sys_parent display_value="">73062f87c3b3621015e11c84e40131be</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">fc232f43c3b3621015e11c84e4013193</sys_scope>
+        <sys_scope_delete display_value="">46c87c120dc14a18956e987108ce1224</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_675748_wish_list_wish_item_quantity</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_675748_wish_list_wish_item_quantity">c38b678fc3b3621015e11c84e4013189</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-10 07:38:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
